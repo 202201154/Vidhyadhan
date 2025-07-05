@@ -1,4 +1,4 @@
-VidhyaDhan (Online Scholarship Management System)
+# VidhyaDhan (Online Scholarship Management System)
 
 Group Members(5): Vraj Dobariya, Dip Baldha, Rishi Godhasara, Aman Mangukiya, Darshak Kukadiya
 
